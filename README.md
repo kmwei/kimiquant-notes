@@ -22,3 +22,10 @@
 知乎 / 掘金可直接改写 `zhihu/` 里的稿，文末保留主站链接。以主站页面为准。
 
 开通、试用、代写走公众号「Kimi量化」：https://www.kimiquant.cn/follow
+
+## 本机 HTTP 桥
+
+miniQMT 不可用时，大 QMT 里起本机 HTTP，外面查行情、对持仓。只监听 127.0.0.1。
+
+[qmt-local-http-bridge](qmt-local-http-bridge/)
+

@@ -1,0 +1,6 @@
+qmt_bridge.token
+__pycache__/
+*.pyc
+.env
+.idea/
+.vscode/
