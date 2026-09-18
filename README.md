@@ -143,7 +143,24 @@
 
 ## 知乎 / 掘金改写稿
 
-`zhihu/` 目录放可直接改写的稿子，文末保留主站链接。以主站页面为准。
+`zhihu/` 目录放可直接改写的短稿，文末保留主站链接。以主站页面为准。
+
+| 稿 | 主题 |
+| --- | --- |
+| [01-ss-vs-sh](zhihu/01-ss-vs-sh.md) | 上交所尾缀 `.SS` / `.SH` 搞混 |
+| [02-qmt-no-realtime-tick](zhihu/02-qmt-no-realtime-tick.md) | 拿不到实时行情 |
+| [03-qmt-how-to-get-quote](zhihu/03-qmt-how-to-get-quote.md) | 怎么取盘口 |
+| [04-qmt-runtime-backtest](zhihu/04-qmt-runtime-backtest.md) | `run_time` 回测不跑 |
+| [05-qmt-order-callback](zhihu/05-qmt-order-callback.md) | 委托回调怎么写 |
+| [06-ptrade-930-order-fail](zhihu/06-ptrade-930-order-fail.md) | PTrade 开盘下单失败 |
+| [07-qmt-how-to-get-position](zhihu/07-qmt-how-to-get-position.md) | 持仓查不到 / 数量对不上 |
+| [08-qmt-vs-ptrade](zhihu/08-qmt-vs-ptrade.md) | QMT 与 PTrade 的四处差别 |
+| [09-qmt-common-errors](zhihu/09-qmt-common-errors.md) | 报错按现象查 |
+| [10-qmt-local-http-bridge](zhihu/10-qmt-local-http-bridge.md) | 没有 miniQMT 时的三条路 |
+
+## License
+
+[MIT](LICENSE) © 2026 Kimi量化
 
 ---
 
