@@ -75,7 +75,7 @@
 
 | 现象 | 主站页 |
 | --- | --- |
-| 策略想继续在聚宽跑，只把单子接到本机 | [jq-follow-qmt](https://www.kimiquant.cn/problems/jq-follow-qmt) |
+| 策略想继续在聚宽跑，只把单子接到本机 | [notes/jq-follow-qmt.md](notes/jq-follow-qmt.md) · [主站](https://www.kimiquant.cn/problems/jq-follow-qmt) |
 | 聚宽转 QMT：生命周期、后缀、定时对不上 | [jq-to-qmt](https://www.kimiquant.cn/problems/jq-to-qmt) |
 | 聚宽转 PTrade：后缀、持仓、财务对不上 | [jq-to-ptrade](https://www.kimiquant.cn/problems/jq-to-ptrade) |
 | 通达信选股公式放到 QMT 里自动跑 | [tdx-to-qmt](https://www.kimiquant.cn/notes/tdx-to-qmt) |
@@ -87,7 +87,7 @@
 | QMT 和 PTrade 有什么区别 | [notes/qmt-vs-ptrade.md](notes/qmt-vs-ptrade.md) · [主站](https://www.kimiquant.cn/problems/qmt-vs-ptrade) |
 | PTrade 在不同券商有什么差异 | [ptrade-broker-diff](https://www.kimiquant.cn/problems/ptrade-broker-diff) |
 | 只有大 QMT，外部 Python 怎么调函数 | [qmt-local-http-bridge](https://www.kimiquant.cn/problems/qmt-local-http-bridge) |
-| 大 QMT 怎么用成 miniQMT（开源 cfquant） | [cfquant-miniqmt-bridge](https://www.kimiquant.cn/notes/cfquant-miniqmt-bridge) |
+| 大 QMT 怎么用成 miniQMT（开源 cfquant） | [notes/cfquant-miniqmt-bridge.md](notes/cfquant-miniqmt-bridge.md) · [主站](https://www.kimiquant.cn/notes/cfquant-miniqmt-bridge) |
 
 ---
 
@@ -111,8 +111,8 @@
 | --- | --- |
 | 让 QMT 每天自动选股买入 | [qmt-daily-select-buy](https://www.kimiquant.cn/notes/qmt-daily-select-buy) |
 | 持仓和异常怎么盯（微信提醒） | [qmt-monitor-wechat](https://www.kimiquant.cn/notes/qmt-monitor-wechat) |
-| 聚宽模拟盘信号接到本机 QMT | [jq-signal-qmt](https://www.kimiquant.cn/notes/jq-signal-qmt) |
-| 信号同步的延迟优化与实测 | [jq-signal-latency](https://www.kimiquant.cn/notes/jq-signal-latency) |
+| 聚宽模拟盘信号接到本机 QMT | [notes/jq-signal-qmt.md](notes/jq-signal-qmt.md) · [主站](https://www.kimiquant.cn/notes/jq-signal-qmt) |
+| 信号同步的延迟优化与实测 | [notes/jq-signal-latency.md](notes/jq-signal-latency.md) · [主站](https://www.kimiquant.cn/notes/jq-signal-latency) |
 
 ---
 
