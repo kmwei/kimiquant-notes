@@ -161,6 +161,11 @@
 | [08-qmt-vs-ptrade](zhihu/08-qmt-vs-ptrade.md) | QMT 与 PTrade 的四处差别 |
 | [09-qmt-common-errors](zhihu/09-qmt-common-errors.md) | 报错按现象查 |
 | [10-qmt-local-http-bridge](zhihu/10-qmt-local-http-bridge.md) | 没有 miniQMT 时的三条路 |
+| [11-qmt-cancel-not-working](zhihu/11-qmt-cancel-not-working.md) | `cancel` 返回 `True` 不等于撤成了 |
+| [12-qmt-order-not-filled](zhihu/12-qmt-order-not-filled.md) | 先分清「没有委托」和「委托没成交」 |
+| [13-qmt-finance-data-null](zhihu/13-qmt-finance-data-null.md) | 财务取到空值：字段不存在 vs 值确实为空 |
+| [14-qmt-signal-at-most-once](zhihu/14-qmt-signal-at-most-once.md) | 信号桥「至多一次」的三种取舍 |
+| [15-miniqmt-application-tightened](zhihu/15-miniqmt-application-tightened.md) | miniQMT 收紧：自己验证的三步 |
 
 ## License
 
