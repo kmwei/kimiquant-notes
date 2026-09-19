@@ -34,15 +34,17 @@
 | `get_market_data_ex` 和 `get_market_data` 差在哪 | [qmt-get-market-data-ex](https://www.kimiquant.cn/problems/qmt-get-market-data-ex) |
 | `get_full_tick` 在回测里不能用 | [qmt-full-tick-backtest](https://www.kimiquant.cn/problems/qmt-full-tick-backtest) |
 | 后缀 `.SS` / `.SH` 用错 | [ss-vs-sh](https://www.kimiquant.cn/problems/ss-vs-sh) |
+| 财务数据取到空值 / `NaN` | [notes/qmt-finance-data-null.md](notes/qmt-finance-data-null.md) |
 
 ### 下单与委托
 
 | 现象 | 主站页 |
 | --- | --- |
 | `passorder` 参数不知道填什么 | [qmt-passorder-params](https://www.kimiquant.cn/problems/qmt-passorder-params) |
-| 下单函数返回了但没成交 / 废单 | [qmt-passorder-not-filled](https://www.kimiquant.cn/problems/qmt-passorder-not-filled) |
+| 下单函数返回了但没成交 / 废单 | [notes/qmt-order-not-filled.md](notes/qmt-order-not-filled.md) · [主站](https://www.kimiquant.cn/problems/qmt-passorder-not-filled) |
 | 不知道委托成没成、回调怎么写 | [qmt-order-callback](https://www.kimiquant.cn/problems/qmt-order-callback) |
 | PTrade 9:30 下单失败 | [ptrade-930-order-fail](https://www.kimiquant.cn/problems/ptrade-930-order-fail) |
+| 撤单撤不掉 / `cancel` 返回 `False` | [notes/qmt-cancel-not-working.md](notes/qmt-cancel-not-working.md) · [主站](https://www.kimiquant.cn/notes/cancel) |
 | 撤单函数怎么用 | [ptrade-cancel-order](https://www.kimiquant.cn/problems/ptrade-cancel-order) |
 | 手续费 / 滑点设置不生效 | [ptrade-set-commission-trade](https://www.kimiquant.cn/problems/ptrade-set-commission-trade) |
 
@@ -88,6 +90,7 @@
 | PTrade 在不同券商有什么差异 | [ptrade-broker-diff](https://www.kimiquant.cn/problems/ptrade-broker-diff) |
 | 只有大 QMT，外部 Python 怎么调函数 | [qmt-local-http-bridge](https://www.kimiquant.cn/problems/qmt-local-http-bridge) |
 | 大 QMT 怎么用成 miniQMT（开源 cfquant） | [notes/cfquant-miniqmt-bridge.md](notes/cfquant-miniqmt-bridge.md) · [主站](https://www.kimiquant.cn/notes/cfquant-miniqmt-bridge) |
+| miniQMT 收紧，怎么验证自己还能不能用 | [notes/miniqmt-application-tightened.md](notes/miniqmt-application-tightened.md) · [主站](https://www.kimiquant.cn/problems/qmt-local-http-bridge) |
 
 ---
 
