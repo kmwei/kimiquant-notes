@@ -113,6 +113,7 @@
 | 持仓和异常怎么盯（微信提醒） | [qmt-monitor-wechat](https://www.kimiquant.cn/notes/qmt-monitor-wechat) |
 | 聚宽模拟盘信号接到本机 QMT | [notes/jq-signal-qmt.md](notes/jq-signal-qmt.md) · [主站](https://www.kimiquant.cn/notes/jq-signal-qmt) |
 | 信号同步的延迟优化与实测 | [notes/jq-signal-latency.md](notes/jq-signal-latency.md) · [主站](https://www.kimiquant.cn/notes/jq-signal-latency) |
+| 信号桥的「至多一次」：三种像丢单的取舍 | [notes/qmt-signal-at-most-once.md](notes/qmt-signal-at-most-once.md) |
 
 ---
 
